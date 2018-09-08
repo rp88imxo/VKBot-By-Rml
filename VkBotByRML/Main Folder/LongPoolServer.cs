@@ -4,15 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// Rep created
-
-namespace VkBotByRML
+namespace VkBotByRML.Main_Folder
 {
-    class Program
+    class LongPoolServer
     {
-        static void Main(string[] args)
-        {
 
-        }
     }
 }
